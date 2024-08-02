@@ -1,52 +1,51 @@
-<h2 align="left">Olá! eu sou o Armando Rocha👋</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-###
+# Olá! eu sou o Armando Rocha👋</h2>
+* Estou aprendendo React Native, Typescript 📚<
+* Graduando em Analise e desenvolvimento de sistemas📚
 
-<p align="left">- Estou aprendendo React Native, Typescript 📚<br>- Graduando em Analise e desenvolvimento de sistemas📚<br><br>________________________________________________________________________________________________________________________________________________</p>
 
-###
+<summary>👨‍💻 Contate-me👨‍💻 </summary>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armandorocha13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=midnight-purple&locale=en&hide_border=true&custom_title=Status%20Github%20%20do%20Dev%20Armando%20Rocha%20" height="130" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Armandorocha13&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=13&date_format=M%20j%5B,%20Y%5D" height="120" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Armandorocha13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=midnight-purple&hide_border=true&custom_title=Estatisticas%20" height="118" alt="languages graph"  />
-</div>
+<!-- Links -->
 
-###
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/armandorocha13/)
+[![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521990708854?text=Ol%C3%A1,%20estava%20olhando%20seu%20github.%20Podemos%20conversar?)
 
-<h4 align="center">⬇⬇Tecnologias que uso no meu dia:⬇⬇</h4>
 
-###
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandorocha13&show_icons=true&theme=gotham)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
 
-###
+<!-- Portfolio -->
+## Portfolio:
+- [Pagina de login com transição](https://github.com/Armandorocha13/login-slide)
+- [Loja de croche](https://github.com/Armandorocha13/login-slide)
+- [Sistema de aluguel de carros](https://github.com/Armandorocha13/servi-o--de-aluguel--de--veiculos)
 
-<h4 align="center">⬇️Essas são minhas redes sociais⬇️</h4>
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm42emh1NzcxMmZuZXU2cm0zampmb3U4dmExeHF3ZndiNnllc2VxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3YVUNHawVXY2FMQFUF/giphy.gif" alt="Imagem">
+</p>
 
-###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo"  />
-</div>
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
 
-###
-
-<h5 align="center">⬇️Vizualizações⬇️</h5>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Armandorocha13/count.svg?"  />
-</div>
-
-###
+    <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </div>
+  
