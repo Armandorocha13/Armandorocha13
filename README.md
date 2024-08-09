@@ -22,6 +22,7 @@
 - [Pagina de login com transição](https://github.com/Armandorocha13/login-slide)
 - [Loja de croche](https://github.com/Armandorocha13/login-slide)
 - [Sistema de aluguel de carros](https://github.com/Armandorocha13/servi-o--de-aluguel--de--veiculos)
+- [Loja geek](https://github.com/Armandorocha13/gamatex.store)
 
 <!-- GIF -->
 <p align="left">
