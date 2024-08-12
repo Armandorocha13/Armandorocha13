@@ -19,9 +19,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Pagina de login com transição](https://github.com/Armandorocha13/login-slide)
+- [Pagina de login com transição](https://armandorocha13.github.io/login-slide/)
 - [Loja de croche](https://github.com/Armandorocha13/login-slide)
-- [Sistema de aluguel de carros](https://github.com/Armandorocha13/servi-o--de-aluguel--de--veiculos)
+- [KTS HOST](https://armandorocha13.github.io/kts-host/)
 - [Loja geek](https://github.com/Armandorocha13/gamatex.store)
 
 <!-- GIF -->
