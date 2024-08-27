@@ -26,8 +26,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm42emh1NzcxMmZuZXU2cm0zampmb3U4dmExeHF3ZndiNnllc2VxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3YVUNHawVXY2FMQFUF/giphy.gif" alt="Imagem">
-</p>
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p></p>
 
 
 ## 🔥 Skills
