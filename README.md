@@ -19,10 +19,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Pagina de login com transição](https://armandorocha13.github.io/login-slide/)
-- [Loja de croche](https://github.com/Armandorocha13/login-slide)
-- [KTS HOST](https://armandorocha13.github.io/kts-host/)
-- [Loja geek](https://github.com/Armandorocha13/gamatex.store)
+- [Gerador de QR code](https://gerador-de-qr-code-two.vercel.app/)
+- [Loja de croche](https://fiosdacris-ej93.vercel.app/)
+- [KTS HOST](https://kts-host.vercel.app/)
+- [Agencia de viagens](https://ipctour.vercel.app)
 
 <!-- GIF -->
 <p align="left">
