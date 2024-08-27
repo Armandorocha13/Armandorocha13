@@ -25,8 +25,8 @@
 - [Agencia de viagens](https://ipctour.vercel.app)
 
 <!-- GIF -->
-<p align="left">
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p></p>
+![Descrição do GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBhamYxcjVoa2RocGZtd3hzN3hhYW1zZzd2aW9idjIzdmtjbHY1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 
 ## 🔥 Skills
