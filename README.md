@@ -11,6 +11,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/armandorocha13/)
 [![whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521990708854?text=Ol%C3%A1,%20estava%20olhando%20seu%20github.%20Podemos%20conversar?)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-rocha-2248a4161/)
+
 
 
 <!-- GithubStats -->
