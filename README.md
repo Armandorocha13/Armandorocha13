@@ -1,7 +1,7 @@
 
 
 # Olá! eu sou o Armando Rocha👋</h2>
-* Estou aprendendo React Native, Typescript 📚<
+* Estou aprendendo React js, Typescript 📚<
 * Graduando em Analise e desenvolvimento de sistemas📚
 
 
