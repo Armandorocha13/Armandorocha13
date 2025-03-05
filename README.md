@@ -4,7 +4,7 @@
 * Estou estudando para me desenvolvedor Back-end Java 📚
 * Graduando em Analise e desenvolvimento de sistemas📚
 
-  <p><strong>Java:</strong> Atualmente estou aprofundando meus conhecimentos em Java, focando na construção de aplicações desktop e na integração com bancos de dados. Meu aprendizado envolve desde os fundamentos da linguagem até conceitos avançados, como POO, estruturas de dados e desenvolvimento de sistemas robustos. Estou aplicando esses conhecimentos no desenvolvimento de um sistema de pagamento de mensalidades para um projeto de futebol.</p>
+  <p><strong> Atualmente estou aprofundando meus conhecimentos em Java, focando na construção de aplicações desktop e na integração com bancos de dados. Meu aprendizado envolve desde os fundamentos da linguagem até conceitos avançados, como POO, estruturas de dados e desenvolvimento de sistemas robustos. Estou aplicando esses conhecimentos no desenvolvimento de um sistema de pagamento de mensalidades para um projeto de futebol.</strong></p>
   
 <summary>👨‍💻 Contate-me👨‍💻 </summary>
 
