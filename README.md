@@ -1,10 +1,11 @@
 
 
-# Olá! eu sou o Armando Rocha👋</h2>
-* Estou aprendendo React js, Typescript 📚<
+# Olá! Me chamo Armando Rocha👋</h2>
+* Estou estudando para me desenvolvedor Back-end Java 📚
 * Graduando em Analise e desenvolvimento de sistemas📚
 
-
+  <p><strong>Java:</strong> Atualmente estou aprofundando meus conhecimentos em Java, focando na construção de aplicações desktop e na integração com bancos de dados. Meu aprendizado envolve desde os fundamentos da linguagem até conceitos avançados, como POO, estruturas de dados e desenvolvimento de sistemas robustos. Estou aplicando esses conhecimentos no desenvolvimento de um sistema de pagamento de mensalidades para um projeto de futebol.</p>
+  
 <summary>👨‍💻 Contate-me👨‍💻 </summary>
 
 <!-- Links -->
@@ -21,13 +22,6 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandorocha13&show_icons=true&theme=gotham)
 
 
-<!-- Portfolio -->
-## Portfolio:
-- [Gerador de QR code](https://gerador-de-qr-code-two.vercel.app/)
-- [Loja de croche](https://fiosdacris-ej93.vercel.app/)
-- [KTS HOST](https://kts-host.vercel.app/)
-- [Agencia de viagens](https://ipctour.vercel.app)
-
 <!-- GIF -->
 ![Descrição do GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBhamYxcjVoa2RocGZtd3hzN3hhYW1zZzd2aW9idjIzdmtjbHY1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
@@ -35,16 +29,20 @@
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
+<div style="flex-basis: 48%;">
+  <h3>Programming Languages</h3>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-  
+</div>
+
+<!-- Skills: Frameworks & Tools -->
+<div style="flex-basis: 48%;">
+  <h3>Frameworks & Tools</h3>
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+</div>
+
