@@ -26,8 +26,20 @@
 ![Descrição do GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBhamYxcjVoa2RocGZtd3hzN3hhYW1zZzd2aW9idjIzdmtjbHY1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 
+<!-- Soft Skills -->
+<div style="flex-basis: 100%;">
+  <h3>Soft Skills</h3>
+  <ul>
+    <li>🤝 Trabalho em equipe</li>
+    <li>🧠 Pensamento crítico</li>
+    <li>🚀 Proatividade</li>
+    <li>📢 Comunicação eficaz</li>
+    <li>🎯 Foco em soluções</li>
+    <li>📚 Aprendizado contínuo</li>
+  </ul>
+</div>
 
-## 🔥 Skills
+## 🔥Hard Skills
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
   <h3>Programming Languages</h3>
@@ -36,6 +48,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 </div>
+
 
 <!-- Skills: Frameworks & Tools -->
 <div style="flex-basis: 48%;">
