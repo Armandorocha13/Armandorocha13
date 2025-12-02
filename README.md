@@ -26,11 +26,11 @@
 <div style="flex-basis: 100%;">
   <h3>Soft Skills</h3>
   <ul>
-    <li>**Colaboração & Trabalho em Equipe:** Foco na sinergia e alcance de metas conjuntas.</li>
-    <li>**Resolução de Problemas:** Aplicação de pensamento crítico para identificar e implementar soluções eficazes.</li>
-    <li>**Iniciativa & Proatividade:** Capacidade de antecipar necessidades e tomar ações estratégicas.</li>
-    <li>**Comunicação Assertiva:** Habilidade de transmitir informações complexas de forma clara e objetiva.</li>
-    <li>**Aprendizagem Contínua (Lifelong Learning):** Forte aptidão para absorver novas tecnologias e metodologias.</li>
+    <li>Colaboração & Trabalho em Equipe:** Foco na sinergia e alcance de metas conjuntas.</li>
+    <li>Resolução de Problemas: Aplicação de pensamento crítico para identificar e implementar soluções eficazes.</li>
+    <li>Iniciativa & Proatividade: Capacidade de antecipar necessidades e tomar ações estratégicas.</li>
+    <li>Comunicação Assertiva: Habilidade de transmitir informações complexas de forma clara e objetiva.</li>
+    <li>Aprendizagem Contínua (Lifelong Learning):** Forte aptidão para absorver novas tecnologias e metodologias.</li>
   </ul>
 </div>
 
