@@ -1,7 +1,7 @@
 
 
 # Olá! Me chamo Armando Rocha👋</h2>
-* Estou estudando para me desenvolvedor Back-end Java 📚
+* Estou estudando para me desenvolvedor  Java 📚
 * Graduando em Analise e desenvolvimento de sistemas📚
 
   <p><strong> Atualmente estou aprofundando meus conhecimentos em Java, focando na construção de aplicações desktop e na integração com bancos de dados. Meu aprendizado envolve desde os fundamentos da linguagem até conceitos avançados, como POO, estruturas de dados e desenvolvimento de sistemas robustos. </strong></p>
