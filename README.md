@@ -18,42 +18,37 @@
 
 
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Armandorocha13&show_icons=true&theme=gotham)
-
 
 <!-- GIF -->
 ![Descrição do GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBhamYxcjVoa2RocGZtd3hzN3hhYW1zZzd2aW9idjIzdmtjbHY1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 
-<!-- Soft Skills -->
 <div style="flex-basis: 100%;">
   <h3>Soft Skills</h3>
   <ul>
-    <li>🤝 Trabalho em equipe</li>
-    <li>🧠 Pensamento crítico</li>
-    <li>🚀 Proatividade</li>
-    <li>📢 Comunicação eficaz</li>
-    <li>🎯 Foco em soluções</li>
-    <li>📚 Aprendizado contínuo</li>
+    <li>**Colaboração & Trabalho em Equipe:** Foco na sinergia e alcance de metas conjuntas.</li>
+    <li>**Resolução de Problemas:** Aplicação de pensamento crítico para identificar e implementar soluções eficazes.</li>
+    <li>**Iniciativa & Proatividade:** Capacidade de antecipar necessidades e tomar ações estratégicas.</li>
+    <li>**Comunicação Assertiva:** Habilidade de transmitir informações complexas de forma clara e objetiva.</li>
+    <li>**Aprendizagem Contínua (Lifelong Learning):** Forte aptidão para absorver novas tecnologias e metodologias.</li>
   </ul>
 </div>
 
 <div style="flex-basis: 48%;">
   <h3>Programming Languages</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
-
 
 <!-- Skills: Frameworks & Tools -->
 <div style="flex-basis: 48%;">
   <h3>Frameworks & Tools</h3>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Java Swing/AWT (JFrame)" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
-
