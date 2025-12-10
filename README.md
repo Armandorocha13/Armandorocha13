@@ -56,15 +56,7 @@ Atualmente estou aprofundando meus conhecimentos em <strong>Java</strong>, focan
 
 ---
 
-<div align="center">
 
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armandorocha13&theme=dark&hide_border=true&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armandorocha13&theme=dark&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff)
-
-</div>
 
 ---
 
