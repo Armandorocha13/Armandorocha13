@@ -2,7 +2,7 @@
 
 # Olá, eu sou Armando Rocha
 
-### Estudante de Desenvolvimento Java | Graduando em Análise e Desenvolvimento de Sistemas
+### Estudante de Desenvolvimento de Software | Graduando em Análise e Desenvolvimento de Sistemas
 
 </div>
 
